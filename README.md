@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ## 用 ❤️ 发 ⚡️
 
 <div>
-<img height="340" src="https://github.com/yejimeiming/yejimeiming/blob/main/%24-zfb.jpg?raw=true" />
+<img width="190" src="https://github.com/yejimeiming/yejimeiming/blob/main/%24-zfb.jpg?raw=true" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="340" src="https://github.com/yejimeiming/yejimeiming/blob/main/%24-wx.png?raw=true" />
+<img width="190" src="https://github.com/yejimeiming/yejimeiming/blob/main/%24-wx.png?raw=true" />
 </div>
